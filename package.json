@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Node.js 이해하기\r   - **log.js / test.js :** 모듈 내보내기\r   - **server.js :** http 서버 구축하기\r   - **request.js / response.js / https.js :** 모듈 생성하기\r   - **exports.js :** 모듈 내본내기 다른 방법\r   - **request.mjs / response.mjs / https.mjs :** 노드JS에서 ECMAScript 모듈 이용하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alliejj99/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alliejj99/Node-JS/issues"
+  },
+  "homepage": "https://github.com/alliejj99/Node-JS#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
